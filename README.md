@@ -3,6 +3,13 @@ Kansas University Baseball Data Analysis
 Project Overview
 This repository contains an in-depth data analysis of the Kansas University Baseball team, focusing on player performance metrics and team strategies. The analysis was conducted to provide strategic insights for the University of Illinois at Chicago (UIC) Baseball team, significantly contributing to their tactical preparation and decision-making in a key tournament.
 
+<img width="780" alt="image" src="https://github.com/vishal363/Baseball-Scouting-Analysis/assets/71640603/5150b6ad-d948-4597-b444-805616678b42">
+
+<img width="780" alt="image" src="https://github.com/vishal363/Baseball-Scouting-Analysis/assets/71640603/58140f02-cbc2-4881-8aa7-e10fc83c9aa5">
+
+<img width="524" alt="image" src="https://github.com/vishal363/Baseball-Scouting-Analysis/assets/71640603/764d973e-d29b-4701-979e-aab7b9120b99">
+
+
 Key Features:
 1.Data Preprocessing: Employed Python, Pandas, and Seaborn to preprocess the dataset, effectively reducing data complexity by over 80%. This step was crucial in enhancing the reliability and usability of the dataset for detailed analysis.
 
